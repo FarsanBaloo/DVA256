@@ -1,0 +1,47 @@
+An Integrated Modular Design Methodology for Life-Cycle Engineering 
+Product modularization for life cycle engineering
+A multi-phase approach for supply chain design with product life cycle considerations 
+Adaptive  Actions  Replace  Human  Interactions  at Product  Modeling 
+"Process-Oriented Semantic Knowledge Management in Product Lifecycle 
+Management"
+Life Cycle Analysis of the Hydrogen Production
+"Development and Implementation of a Product Life 
+Cycle Optimization Model  "
+Knowledge evaluation in product lifecycle design and support
+Analytics of Industrial Operational Data Inspired by Natural Language Processing
+Predicting Future Inbound Logistics Processes Using Machine Learning.
+"Comparison of Machine Learning methods applied to the estimation of manufacturing
+cost of jet engine components"
+Applying machine learning to the dynamic selection of replenishment policies in fast-changing supply chain environments
+Adaptive life-cycle control system for overhead transmission lines using forecasting models
+The methods of knowledge acquisition in the Product Lifecycle for a Generative Model’s creation process
+A framework for Big Data driven product lifecycle management
+Industrial scheduling with Monte Carlo tree search and machine learning.
+Robot fault detection and remaining life estimation for predictive maintenance.
+An automated packaging planning approach using machine learning.
+Towards Predicting System Disruption in Industry 4.0: Machine Learning-Based Approach
+Forecasting remaining useful life: Interpretable deep learning approach via variational Bayesian inferences, Decision Support Systems.
+"Design, Implementation and Evaluation of Reinforcement Learning for an
+Adaptive Order Dispatching in Job Shop Manufacturing Systems."
+Predictive Maintenance of Machine Tool Systems Using Artificial Intelligence Techniques Applied to Machine Condition Data
+Understanding Human Decision-making during Production Ramp-up using Natural Language Processing
+Keyword-Based Semi-Supervised Text Classification
+Explainable AI in manufacturing: A predictive maintenancecase study.
+Deep transfer learning based diagnosis for machining process lifecycle
+Development of a diagnostic and prognostic tool for predictive maintenance in the railcar industry
+Performance assessment methodology for AI-supported decision-making in production management 
+The Fourth Industrial Revolution: Digital Transformation and Industry 4.0 Applied to Product Design, Manufacturing and Operation
+"Fast and automated sensory analysis: Using natural language processing for
+descriptive lexicon development"
+Towards Active Learning Based Smart Assistant for Manufacturing
+How AI capabilities enable business model innovation: Scaling AI through co-evolutionary processes and feedback loops
+The ambiguity of natural language as resource for organizational design: A computational analysis
+Machine learning based approach for process supervision to predict tool wear, during machining
+Adaptive decision-making method of life cycle options by using process data collected over multiple life cycle stages
+Realization of AI-enhanced industrial automation systems using intelligent Digital Twins
+A digital twin architecture for effective product lifecycle cost estimation
+Definition and Reference Framework for Life Cycle Technologies in Life Cycle Engineering - a Case Study on All Solid State Traction Batteries
+Artificial intelligence system for enhancing product’s performance during its life cycle in a railcar industry
+Understanding AI adoption in manufacturing and production firms using an integrated TAM-TOE model
+AI-enabled business-model innovation and transformation in industrial ecosystems: A framework, model and outline for further research
+AI-LCE: Adaptive and Intelligent Life Cycle Engineering by applying digitalization and AI methods – An emerging paradigm shift in Life Cycle Engineering
